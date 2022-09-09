@@ -87,5 +87,12 @@ less frequently the larger the game grid is.<br/>
 And at long last, we have our Snake AI:
 
 https://user-images.githubusercontent.com/104640033/189197758-2fffa388-61e8-44d2-86ab-e0eab7864ceb.mp4
+  
+<br/><br/>
 
+## References
+https://github.com/CheranMahalingam/Snake_Hamiltonian_Cycle_Solver  
+https://johnflux.com/2015/05/02/nokia-6110-part-3-algorithms/  
+https://medium.com/@pascal.sommer.ch/generating-hamiltonian-cycles-in-rectangular-grid-graphs-316c94ecefe0  
+https://github.com/BrianHaidet/AlphaPhoenix/tree/master/Snake_AI_(2020a)_DHCR_with_strategy  
 
