@@ -73,8 +73,8 @@ However, tile #9 is also a "legal" tile, since it allows our snake to remain ord
 additional move.<br/>
 Therefore, our algorithm will pick tile #9 as the next move.
 
-It is important to note that this is a algorithm search, as we are not checking every possible path to the food, but only the first available move towards it. 
-Therefore it won't always take the most efficient path to the food.<br/>
+It is important to note that this is a greedy search, as we are not checking every possible path to the food, but only the first available move towards it. 
+Therefore the snake won't always take the most efficient path to the food.<br/>
 
 Finally, the algorithm doesn't take into consideration the fact that eating food extends the snake's body, which can lead the snake to occasionally crash into
 itself in the later stages of the game.<br/>
